@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather App Retrofit API</string>
+    <string name="temperature">%s \u2103</string>
+    <string name="location">Philadelphia</string>
+    <string name="weather">%s</string>
+    <string name="today">TODAY</string>
+    <string name="icon_url">https://openweathermap.org/img/wn/%s@2x.png</string>
+</resources>
